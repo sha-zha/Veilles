@@ -74,6 +74,9 @@ Si votre ordinateur a déjà corrompu en amont, le hacker pourra :
 
 
 
+sources informations : 
+ 
+* https://www.vadesecure.com/fr/blog/les-hackers-contournent-les-couches-de-transport-pour-deposer-des-spams-via-imap/
+* https://www.commentcamarche.net/contents/1230-le-ver-nimda
 
-
-
+* https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956
