@@ -11,6 +11,18 @@ Un document .eml est généralement composé de deux parties: l'en-tête de fich
 
 ## Technique 
 
+## hedaer 
+
+Exemple Header
+
+From: John@bmw.eml.light.com
+
+To: Andy@fileformat.com
+
+Date: Thu, 8 Mar 2018 10:43:37 +0100
+
+Subject: bmw eml light
+
 ## corps message possible
 
 | Type       | 	Description    | Exemple |
@@ -20,6 +32,48 @@ Un document .eml est généralement composé de deux parties: l'en-tête de fich
 |audio|	audio |	audio/mdi, audio/wav|
 |binaire |fichier pouvant être traduit en binaire souvent pièces jointes |	application/octet-stream, application/vnd.mspowerpoint, application/xhtml+xml, application/xml, application/pdf|
 
-## Regarder un email depuis gmail en format EML
+## Exemple dd'un fichier format EML
+
+Suivre ce tuto pour voir à quoi ressemble un fichier eml depuis votre messagerie gmail
 
 https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956
+
+vous pouvez également sauvegarder ce fichier 
+
+vous pouvez le lire en passant par un client de messagerie ou application dédiée.
+
+## CORRUPTION FICHIER 
+
+lien article : https://www.commentcamarche.net/contents/1230-le-ver-nimda
+
+
+résumé risque possible :
+
+*C'est quoi NIMDA ?*
+
+un ver se propageant à l'aide du courrier électronique, mais il exploite également 4 autres modes de propagation :
+* Le web
+* Les répertoires partagés
+* Les failles de serveur Microsoft IIS
+* Les échanges de fichiers
+
+
+*méchant hackers*
+
+Si votre ordinateur a déjà corrompu en amont, le hacker pourra :
+
+- écouter vos échanges 
+- répondre à votre place 
+- glisser des fichier .eml exécutable afin de mieux surveiller et prendre les informations souhaités.
+
+## indices pour prévenir de la menace
+
+1. rechercher l'existance de fichier .eml sur votre ordinateur si vous n'êtes pas la personne qui a faite cette action supprimmer le fichier
+2. ne ouvrir les email suspects ( spams ) 
+3. ne pas cliquer sur des pièces jointes suspectes notamment lorsqu'elles ont le nom de README.eml ou README.exe généralement le nom utilisé quand le fichier est corrompu.
+
+
+
+
+
+
