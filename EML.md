@@ -5,9 +5,17 @@
 Le format EML est un format souvent utilisés pour les messages électroniques (email ) enregistrés par les programmes de messagerie, tel que la messagerie outlook. 
 Ce type de fichier peut contenir du text brut ou des pièces jointes ( binaires ) envoyées par e-mail. Il faut faire attention car les fichiers EML sont susceptibles d'être infectés par des virus et/ou par d'autres logiciels malveillants.
 
+Le format EML a été créé par Microsoft Corporation.
+
 ## struture du fichier
 
 Un document .eml est généralement composé de deux parties: l'en-tête de fichier et le corps de fichier. L'en-tête comprend les adresses d'expéditeur et de recepient, le sujet et l'horodatage. Le message lui-même est stocké dans le corps de fichier. Typiquement, un fichier .eml stocke un seul message.
+
+On peut ouvrir ses fichiers eml depuis des applications tels que  
+* Mozilla Thunderbird
+* Microsoft Outlook Express
+* Outlook Express
+
 
 ## Technique 
 
@@ -78,5 +86,6 @@ sources informations :
  
 * https://www.vadesecure.com/fr/blog/les-hackers-contournent-les-couches-de-transport-pour-deposer-des-spams-via-imap/
 * https://www.commentcamarche.net/contents/1230-le-ver-nimda
+* https://www.reviversoft.com/fr/file-extensions/eml
 
 * https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956
