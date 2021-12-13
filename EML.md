@@ -11,8 +11,15 @@ Un document .eml est généralement composé de deux parties: l'en-tête de fich
 
 ## Technique 
 
-EML: Ecological Metadata Language
+## corps message possible
 
-_ c'est quoi en plus technique ? : Le langage de métadonnées écologiques est un standard de métadonnées qui enregistre des informations sur les jeux de données écologiques dans une série de documents XML modulaires et extensibles. 
-- open souce ? : oui
-- standard ? : Toutes les descriptions de jeux de données dans GBIF.org reposent sur des «métadonnées», c’est-à-dire les informations sur les données, à l’aide du standard EML. Ce standard open source est administré et géré par le Knowledge Network for Biocomplexity. Chaque archive Darwin Core inclut dans ses composants un fichier EML (écrit au format XML).
+| Type       | 	Description    | Exemple |
+| -----------|-----------------|---------|
+|text| format lisible pour humain| 	text/plain, text/html, text/css, text/javascript|
+|image| image |image/bmp, image/png, image/jpg, image/gif|
+|audio|	audio |	audio/mdi, audio/wav|
+|binaire |fichier pouvant être traduit en binaire souvent pièces jointes |	application/octet-stream, application/vnd.mspowerpoint, application/xhtml+xml, application/xml, application/pdf|
+
+## Regarder un email depuis gmail en format EML
+
+https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956
